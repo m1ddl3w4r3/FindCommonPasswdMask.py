@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[https://github.com/m1ddl3w4r3/FindCommonPasswdMask.py/blob/main/Output.png] alt="example_output"/>
+</p>
 ##Edit
 
 Edit script to file path.
